@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-# Date:
+# Date:04/11/24
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-~~~
+```
 !DOCTYPE html>
 <html lang="en">
 <head>
@@ -95,8 +95,8 @@ header {
     </header>
 </body>
 </html>
-~~~
-~~~
+```
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -143,8 +143,7 @@ header {
     </header>
 </body>
 </html>
-~~~
-~~~
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -191,8 +190,8 @@ header {
     </header>
 </body>
 </html>
-~~~
-~~~
+```
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -239,8 +238,8 @@ header {
     </header>
 </body>
 </html>
-~~~
-~~~
+```
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -287,7 +286,7 @@ header {
     </header>
 </body>
 </html>
-~~~
+```
 
 ## OUTPUT
 ![alt text](gmapimage.png)
